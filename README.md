@@ -1,4 +1,4 @@
-# Corporate Communications
+# Communications
 CREATED FOR								
 
 The Oak Ridge Institute for Science and Education (ORISE) Virtual Institute. ORISE is a U.S. Department of Energy (DOE) asset managed by Oak Ridge Associated Universities (ORAU).								
@@ -6,7 +6,7 @@ The Oak Ridge Institute for Science and Education (ORISE) Virtual Institute. ORI
 								
 TARGET AUDIENCE								
 
-Large, diverse corporate audience.								
+Large, diverse audience.								
 								
 PROJECT DESCRIPTION								
 
